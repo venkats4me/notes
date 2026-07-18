@@ -1,0 +1,54 @@
+Step 1: Prerequisites
+Before Spring Boot, make sure you know:
+
+Java Basics — https://www.w3schools.com/java/
+Java OOP Concepts — https://www.javatpoint.com/java-oops-concepts
+Maven/Gradle basics — https://maven.apache.org/guides/getting-started/
+Basic SQL — https://www.w3schools.com/sql/
+Step 2: Spring Core Fundamentals
+Understand IoC, Dependency Injection, and Beans first.
+
+Spring Core - Baeldung — https://www.baeldung.com/spring-tutorial
+Spring Framework Docs — https://docs.spring.io/spring-framework/docs/current/reference/html/core.html
+YouTube - Java Brains Spring Core — https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7
+Step 3: Spring Boot Basics
+Official Getting Started Guide — https://spring.io/guides/gs/spring-boot/
+Spring Initializr — https://start.spring.io
+Baeldung Spring Boot — https://www.baeldung.com/spring-boot
+YouTube - Amigoscode Spring Boot — https://www.youtube.com/watch?v=9SGDpanrc8U
+Step 4: Building REST APIs
+Spring MVC REST Guide — https://spring.io/guides/gs/rest-service/
+Baeldung REST with Spring — https://www.baeldung.com/rest-with-spring-series
+YouTube - Daily Code Buffer — https://www.youtube.com/c/DailyCodeBuffer
+Step 5: Database — Spring Data JPA & Hibernate
+Spring Data JPA Guide — https://spring.io/guides/gs/accessing-data-jpa/
+Baeldung JPA — https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa
+Hibernate Docs — https://hibernate.org/orm/documentation/
+Step 6: Spring Security
+Spring Security Docs — https://docs.spring.io/spring-security/reference/
+JWT with Spring Boot - Baeldung — https://www.baeldung.com/spring-security-jwt
+YouTube - Amigoscode Spring Security — https://www.youtube.com/watch?v=her_7pa0vrg
+Step 7: Exception Handling & Validation
+Global Exception Handling - Baeldung — https://www.baeldung.com/exception-handling-for-rest-with-spring
+Bean Validation Guide — https://www.baeldung.com/javax-validation
+Step 8: Testing
+Spring Boot Testing Docs — https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.testing
+JUnit 5 Guide — https://junit.org/junit5/docs/current/user-guide/
+Mockito — https://site.mockito.org/
+Baeldung Testing — https://www.baeldung.com/spring-boot-testing
+Step 9: Docker & Deployment
+Dockerizing Spring Boot - Baeldung — https://www.baeldung.com/dockerizing-spring-boot-application
+Spring Boot Docker Guide — https://spring.io/guides/gs/spring-boot-docker/
+YouTube - TechWorld with Nana Docker — https://www.youtube.com/watch?v=3c-iBn73dDE
+Step 10: Microservices & Spring Cloud
+Spring Cloud Docs — https://spring.io/projects/spring-cloud
+Microservices with Spring Boot - Baeldung — https://www.baeldung.com/spring-microservices-guide
+YouTube - Java Techie Microservices — https://www.youtube.com/c/JavaTechie
+Step 11: Practice Projects
+Project	Link
+Spring PetClinic (official)	https://github.com/spring-projects/spring-petclinic
+Full Stack Blog App	https://github.com/callicoder/spring-boot-react-oauth2-social-login-demo
+RealWorld App	https://github.com/gothinkster/spring-boot-realworld-example-app
+Best Single Course (Paid)
+Udemy - Chad Darby (most popular, 28hrs) — https://www.udemy.com/course/spring-hibernate-tutorial/
+Udemy - Nelson Djalo — https://www.udemy.com/course/spring-boot-tutorial-for-beginners/
